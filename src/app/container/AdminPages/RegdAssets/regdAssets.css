@@ -1,0 +1,21 @@
+.regdAssets-section button {
+    outline: none;
+}
+
+.regdAssets-section .regdAssets-box-style{
+    background-color: white;
+    border: 1px solid #bcbcbc;
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 2px 2px 10px;
+    margin-top: 45px;
+}
+.regdAssets-section {
+    border: 1px solid #bcbcbc;
+    padding: 25px;
+
+}
+.regdAssets-section .custom-div {
+    display: none;
+    position: relative;
+}

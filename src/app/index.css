@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-size: 16px;
+  font-family: 'Calibri';
+  background: #f2f3f4;
+}
+.no-margin {
+  margin: 0px;
+}
+.no-padding {
+  padding: 0px;
+}
+.h100 {
+  height: 100%;
+}
+.w100 {
+  width: 100%;
+}
+
+html input[disabled]{
+    cursor: not-allowed;
+}

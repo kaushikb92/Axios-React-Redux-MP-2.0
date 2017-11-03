@@ -1,0 +1,18 @@
+#myModal {
+    opacity: 1;
+    display: block;
+    border-radius: 5px;
+}
+.loginModal-section .modal .modal-dialog.modal-style {
+    margin-top: 150px;
+    width: 400px;
+}
+.loginModal-section .modal .modal-dialog .modal-content .modal-body .btn.modal-btn {
+    width: 100px;
+    outline: none;
+}
+.loginModal-section .modal .modal-dialog .modal-content .close-cross {
+    margin: 5px 10px 0px 0px;;
+    outline: none;
+    width: 10px;
+}

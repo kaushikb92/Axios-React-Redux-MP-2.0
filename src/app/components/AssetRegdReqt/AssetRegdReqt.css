@@ -1,0 +1,20 @@
+.assetRegdReqt-section .modal-dialog .modal-content .modal-header.modal-heading{
+  background-color: #27394f;
+  color: white;
+}
+#assetRegdReqtModal {
+    opacity: 1;
+    display: block;
+    border-radius: 5px;
+}
+.assetRegdReqt-section .modal .modal-dialog.modal-style {
+    margin-top: 150px;
+    /*width: 400px;*/
+}
+.assetRegdReqt-section .modal .modal-dialog .modal-content .modal-footer .btn.modal-btn {
+ outline: none;
+}
+.assetRegdReqt-section .custom-div{
+    display: none;
+    position: absolute;
+}
